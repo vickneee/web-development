@@ -1,1 +1,1 @@
-Metropolia UAS Web Dev tehtävät.
+Metropolia UAS Web Development tehtävät.
