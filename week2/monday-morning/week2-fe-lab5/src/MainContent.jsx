@@ -1,6 +1,6 @@
 function MainContent() {
   return (
-    <div class="main">
+    <div className="main">
       <section>
         <h2>Section 1</h2>
         <p>This is the content of section 1.</p>
