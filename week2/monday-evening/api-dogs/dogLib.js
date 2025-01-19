@@ -7,7 +7,6 @@
 */
 
 let dogArray = [];
-
 let nextId = 1;
 
 function getAll() {
